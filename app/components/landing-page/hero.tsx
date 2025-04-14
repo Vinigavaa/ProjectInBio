@@ -27,10 +27,10 @@ export default function Hero() {
                     <div className="absolute -bottom-[7%] -right-[45%]">
                         <TotalVisits/>
                     </div>
-                    <div className="absolute top-[20%] -left-[45%] -z-10">
+                    <div className="absolute top-[20%] -left-[41%] -z-10">
                         <ProjectCard/>
                     </div>
-                    <div className="absolute -top-[5%] -left-[55%] -z-10">
+                    <div className="absolute -top-[5%] -left-[51%] -z-10">
                         <ProjectCard/>
                     </div>
                 </div>
