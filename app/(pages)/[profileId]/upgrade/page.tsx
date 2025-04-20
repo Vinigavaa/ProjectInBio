@@ -1,6 +1,7 @@
 import Header from "@/app/components/landing-page/header";
  import Button from "@/app/components/ui/button";
  
+ //Página de upgrade
  export default async function UpgradePage() {
    return (
      <div className="h-screen flex flex-col items-center justify-center gap-4">

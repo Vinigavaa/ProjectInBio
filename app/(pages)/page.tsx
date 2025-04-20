@@ -4,6 +4,7 @@ import Hero from "../components/landing-page/hero";
 import Pricing from "../components/landing-page/pricing";
 import VideoExplanation from "../components/landing-page/video-explanation";
 
+//Página inicial
 export default function Home() {
   return (
     <div className="max-w-7xl mx-auto">

@@ -3,6 +3,7 @@ import Header from "@/app/components/landing-page/header";
  import TextInput from "@/app/components/ui/text-input";
  import { Rocket } from "lucide-react";
  
+ //Página de criação de link
  export default function CriarPage() {
    return (
      <div>
